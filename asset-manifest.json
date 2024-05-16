@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/aalekh-portfolio/static/css/main.bf538fe7.css",
+    "main.js": "/aalekh-portfolio/static/js/main.1881755a.js",
+    "static/media/HeroImage.jpg": "/aalekh-portfolio/static/media/HeroImage.eaf27ec0b8da9c8a9503.jpg",
+    "index.html": "/aalekh-portfolio/index.html",
+    "main.bf538fe7.css.map": "/aalekh-portfolio/static/css/main.bf538fe7.css.map",
+    "main.1881755a.js.map": "/aalekh-portfolio/static/js/main.1881755a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.1881755a.js"
+  ]
+}
