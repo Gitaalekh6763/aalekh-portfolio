@@ -226,7 +226,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Kiit.jpeg?alt=media&token=3839d520-c59d-4341-ad8f-0980c98de4dd",
+    img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fp%2FIIIT-Dharwad-100064315712672%2F&psig=AOvVaw3ktP3VSdw4jXuqGeDlqVt8&ust=1717739793555000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIDu9MOlxoYDFQAAAAAdAAAAABAE",
     school: "Indian Institute of Information Technology Dharwad, Karnataka",
     date: "Dec 2020 - May, 2024",
     // grade: "8.71 CGPA",
@@ -235,7 +235,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
+    img: "https://www.google.com/imgres?q=baldwin%20academy%20patna&imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D100064034048049&imgrefurl=https%3A%2F%2Fwww.facebook.com%2FBaldwinAcademyOfficial%2F&docid=LcgX4BU18E_eUM&tbnid=AXaJQzyzCs6_SM&vet=12ahUKEwjF3PzZpcaGAxUee2wGHV5YCDsQM3oECBsQAA..i&w=1681&h=1681&hcb=2&ved=2ahUKEwjF3PzZpcaGAxUee2wGHV5YCDsQM3oECBsQAA",
     school: "Baldwin Academy, Bihar",
     date: "2017 - 2019",
     grade: "87.4%",
@@ -244,7 +244,7 @@ export const education = [
   },
   {
     id: 3,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
+    img: "https://www.google.com/imgres?q=st.johns%20res%20pub%20school%20dhawalpura&imgurl=https%3A%2F%2Fcontent.jdmagicbox.com%2Fcomp%2Fsambalpur%2Fw5%2F9999px663.x663.130705153358.r8w5%2Fcatalogue%2Fst-john-s-school-sambalpur-0wfbetobss.jpg&imgrefurl=https%3A%2F%2Fwww.justdial.com%2FSambalpur%2FSt-Johns-School-Vianney-Nagar-Dhankauda%2F9999PX663-X663-130705153358-R8W5_BZDET&docid=XZwO9ah0KxXRCM&tbnid=ov16Xr-JrCPKCM&vet=12ahUKEwj90sTwpcaGAxWIT2wGHdQBA_IQM3oECGMQAA..i&w=844&h=574&hcb=2&ved=2ahUKEwj90sTwpcaGAxWIT2wGHdQBA_IQM3oECGMQAA",
     school: "St. Jhons Residential Public School, Bihar",
     date: "2017",
     grade: "96%",
@@ -261,7 +261,7 @@ export const projects = [
     description:
     "This is a chat application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) with JWT authentication, Socket.IO for real-time communication, and bcrypt for password hashing. The application allows users to register, log in, and chat with other users in real-time.",
     image:
-      "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
+      "",
     tags: [
       "React Js",
       "MongoDb",
@@ -280,7 +280,7 @@ export const projects = [
     description:
     "This is a movie application built using React.js and the TMDB API for database access. The application allows users to browse popular movies, search for movies by title, view movie details, and watch trailers, relevent videos,etc.",
     image:
-      "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
+      "",
     tags: [
       "React Js",
       "TMDB API",
@@ -299,7 +299,7 @@ export const projects = [
     description:
     "The project is a Linux kernel module-enhanced exam proctoring system employing custom kernel modules and complementary bash scripts, including features like a window focus module, to ensure secure and controlled online examinations.",
     image:
-      "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
+      "",
     tags: [
       "Linux",
       "Bash",
